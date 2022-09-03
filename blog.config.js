@@ -1,5 +1,5 @@
 const BLOG = {
-  title: '把牛逼还给牛1',
+  title: '把牛逼还给牛',
   author: 'Wen Bo',
   email: 'obnews@gmail.com',
   link: 'https://www.wenbo.eu.org',
