@@ -1,5 +1,5 @@
 const BLOG = {
-  title: '把牛逼还给牛',
+  title: '把牛逼还给牛1',
   author: 'Wen Bo',
   email: 'obnews@gmail.com',
   link: 'https://www.wenbo.eu.org',
@@ -11,7 +11,7 @@ const BLOG = {
   darkBackground: '#18181B', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
   since: 2021, // If leave this empty, current year will be used.
-  postsPerPage: 7,
+  postsPerPage: 15,
   sortByDate: false,
   showAbout: true,
   showArchive: true,
