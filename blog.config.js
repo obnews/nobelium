@@ -1,7 +1,7 @@
 const BLOG = {
   title: '把牛逼还给牛',
   author: 'Wen Bo',
-  email: 'obnews@gmail.com',
+  email: 'wenbo222@gmail.com',
   link: 'https://www.wenbo.eu.org',
   description: 'This gonna be an awesome website.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
